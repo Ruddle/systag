@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/systag/static/css/main.89ff93de.chunk.css",
-    "main.js": "/systag/static/js/main.e8b04650.chunk.js",
-    "main.js.map": "/systag/static/js/main.e8b04650.chunk.js.map",
+    "main.js": "/systag/static/js/main.723e858e.chunk.js",
+    "main.js.map": "/systag/static/js/main.723e858e.chunk.js.map",
     "runtime-main.js": "/systag/static/js/runtime-main.84b69980.js",
     "runtime-main.js.map": "/systag/static/js/runtime-main.84b69980.js.map",
     "static/js/2.60688eed.chunk.js": "/systag/static/js/2.60688eed.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.84b69980.js",
     "static/js/2.60688eed.chunk.js",
     "static/css/main.89ff93de.chunk.css",
-    "static/js/main.e8b04650.chunk.js"
+    "static/js/main.723e858e.chunk.js"
   ]
 }
