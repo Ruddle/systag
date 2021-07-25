@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/systag/static/css/main.89ff93de.chunk.css",
+    "main.js": "/systag/static/js/main.e8b04650.chunk.js",
+    "main.js.map": "/systag/static/js/main.e8b04650.chunk.js.map",
+    "runtime-main.js": "/systag/static/js/runtime-main.84b69980.js",
+    "runtime-main.js.map": "/systag/static/js/runtime-main.84b69980.js.map",
+    "static/js/2.60688eed.chunk.js": "/systag/static/js/2.60688eed.chunk.js",
+    "static/js/2.60688eed.chunk.js.map": "/systag/static/js/2.60688eed.chunk.js.map",
+    "static/js/3.b38050f4.chunk.js": "/systag/static/js/3.b38050f4.chunk.js",
+    "static/js/3.b38050f4.chunk.js.map": "/systag/static/js/3.b38050f4.chunk.js.map",
+    "index.html": "/systag/index.html",
+    "static/css/main.89ff93de.chunk.css.map": "/systag/static/css/main.89ff93de.chunk.css.map",
+    "static/js/2.60688eed.chunk.js.LICENSE.txt": "/systag/static/js/2.60688eed.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/systag/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84b69980.js",
+    "static/js/2.60688eed.chunk.js",
+    "static/css/main.89ff93de.chunk.css",
+    "static/js/main.e8b04650.chunk.js"
+  ]
+}
